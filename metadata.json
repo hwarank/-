@@ -1,0 +1,5 @@
+{
+  "name": "Mystic Insight: Daily Fortune",
+  "description": "A sophisticated AI-powered daily fortune teller that provides personalized insights based on your zodiac and horoscope signs using the Gemini API.",
+  "requestFramePermissions": []
+}
